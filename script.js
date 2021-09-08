@@ -13,7 +13,8 @@ const getCountries = () =>{
     Name:Country.name,
     Region: Country.region,
     Subregion:Country.subregion, 
-    Population: Country.population
+    Population: Country.population,
+    Flag: Country.flag
     }));
     
 
